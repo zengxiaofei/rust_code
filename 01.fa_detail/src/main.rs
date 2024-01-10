@@ -3,7 +3,6 @@
 use clap::Parser;
 use std::io::{self, BufRead};
 use std::fs::File;
-use std::collections::HashMap;
 
 #[derive(Parser)]
 
